@@ -1,6 +1,6 @@
 <template>
   <tab-bar>
-    <!-- 使用别名应在url前面加上~ -->
+    <!-- 使用别名应在url前加~ -->
     <tab-bar-item path="/home">
       <img slot="item-icon" src="~assets/img/tabbar/home.svg" alt="">
       <img slot="item-icon-active" src="~assets/img/tabbar/home_active.svg" alt="">
